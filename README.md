@@ -1,5 +1,5 @@
 # overview of this project
-A simple and easy-to-use todo app that helps you stay organized and on top of your daily tasks.
+A simple and easy-to-use todo app with jwt auth and mongodb deployed locally that helps you stay organized and on top of your daily tasks.
 
 <div align="center">
 
@@ -9,7 +9,7 @@ A simple and easy-to-use todo app that helps you stay organized and on top of yo
 
 ## 🛠 Technologies Used
   - Mongodb - database
-  - NODE.js - Java Script Runtime Engine
+  - NODE.js - Javascript Runtime Engine
   - React JS - frontend library
   - Express JS - Node js library
   - Tailwind CSS - CSS 
