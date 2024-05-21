@@ -1,5 +1,5 @@
 # overview of this project
-A simple and easy-to-use todo app with jwt auth and mongodb deployed locally that helps you stay organized and on top of your daily tasks.
+A simple and easy-to-use todo app with jwt auth and mongodb deployed locally that helps you stay organized and with your daily tasks and subtasks within tasks.
 
 <div align="center">
 
@@ -93,3 +93,6 @@ It took me 3 days to complete this project
 1. The backend is deployed locally using mongo compass for now but will change it using mongo atlas later
 
 # Hope you like it...
+
+![image](https://github.com/shramanpaul/Todo-App/assets/110323017/45dbd82d-fe03-4287-8e4d-78502efcaf89)
+
