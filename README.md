@@ -90,7 +90,8 @@ A simple and easy-to-use todo app with jwt auth and mongodb deployed locally tha
 It took me 3 days to complete this project
 
 ## Deployement 
-1. The backend is deployed locally using mongo compass for now but will change it using mongo atlas later
+1. The site is deployed on AWS using a static IP.
+2. The backend is deployed on Mongo Atlas
 
 # Hope you like it...
 
