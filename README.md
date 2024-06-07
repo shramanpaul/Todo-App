@@ -92,7 +92,8 @@ It took me 3 days to complete this project
 ## Deployement 
 1. Successfully deployed the web application on AWS with a static IP and custom domain.
 
-2. Configured Nginx as a reverse proxy and implemented SSL certificates for secure connections ( shramanpaul-todo.work.gd ).
+2. Configured Nginx as a reverse proxy and implemented SSL certificates for secure connections [shramanpaul-todo.work.gd](http://shramanpaul-todo.work.gd)
+
 
 3. Managed database deployment on MongoDB Atlas, ensuring high availability and scalability.
 
