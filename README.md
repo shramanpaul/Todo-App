@@ -90,8 +90,11 @@ A simple and easy-to-use todo app with jwt auth and mongodb deployed locally tha
 It took me 3 days to complete this project
 
 ## Deployement 
-1. The site is deployed on AWS using a static IP ( http://13.201.152.111/ )
-2. The backend is deployed on Mongo Atlas
+1. Successfully deployed the web application on AWS with a static IP and custom domain.
+
+2. Configured Nginx as a reverse proxy and implemented SSL certificates for secure connections (shramanpaul-todo.work.gd).
+
+3. Managed database deployment on MongoDB Atlas, ensuring high availability and scalability.
 
 # Hope you like it...
 
