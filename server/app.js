@@ -16,6 +16,7 @@ app.use('/todo', todo)
 
 app.use(cors({
     origin: process.env.FR_PORT,
+    credentials: true
 }))
 
 export default app
