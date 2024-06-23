@@ -15,7 +15,7 @@ app.use('/user', user)
 app.use('/todo', todo)
 
 app.use(cors({
-    origin: 'http://localhost:3000',
+    origin: process.env.FR_PORT,
 }))
 
 export default app
